@@ -1,3 +1,8 @@
+# Installation
+```
+composer require inweb/admin-field-models
+```
+
 # Usage
 
 ```php
